@@ -29,7 +29,7 @@
     height: 110px;
     padding: 3.7px;
     border: #442117 solid 4px;
-    margin: 2px 630px;
+    margin: 2px auto;
   }
   
   h1 {
@@ -37,7 +37,7 @@
     color: #280e07;
     margin-top: 24px;
     margin-bottom: 8px;
-    margin: 2px 584px;
+    margin: 2px auto;
     text-align: justify;
   }
   
@@ -48,7 +48,7 @@
     color: #280e07;
     opacity: 0.8;
     font-size: 18px;
-    margin: 0px 635px;
+    margin: 0px auto;
   }
   
   ul {
