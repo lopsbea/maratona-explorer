@@ -15,7 +15,6 @@
   
   .container {
     text-align: center;
-    width: 150px;
     margin: 60px auto;
   }
   
@@ -38,7 +37,8 @@
     margin-top: 24px;
     margin-bottom: 8px;
     margin: 2px auto;
-    text-align: justify;
+    text-align: center;
+    width: 300px;
   }
   
   .username {
@@ -49,6 +49,8 @@
     opacity: 0.8;
     font-size: 18px;
     margin: 0px auto;
+    width: 300px;
+    text-align: center;
   }
   
   ul {
